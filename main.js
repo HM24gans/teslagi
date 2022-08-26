@@ -56,7 +56,7 @@ global.db = new Low(
 )
 
 
-global.db = new Low(new mongoDB('mongodb+srv://Ikhsan65:ApKERpsNe7yWlQIJ@cluster0.srrh1.mongodb.net/?retryWrites=true&w=majority'))
+global.db = new Low(new mongoDB('mongodb+srv://Ikhsan345:EfdQ1dsYCaqYyufP@cluster0.ccnnrzv.mongodb.net/?retryWrites=true&w=majority'))
 
 
 global.DATABASE = global.db // Backwards Compatibility
